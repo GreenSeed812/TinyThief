@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "StopLeft",
+  "_objFlags": 0,
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0d9176b2-9afa-43c1-ac10-a458c17de4dd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

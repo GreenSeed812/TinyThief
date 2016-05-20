@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "StopRight",
+  "_objFlags": 0,
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "87ba7828-85bc-4e68-a8df-36764b298d20"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

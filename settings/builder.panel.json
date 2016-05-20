@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "startScene": "67c98962-8e16-4589-9deb-4301e14df24c",
+  "title": "Adventure",
+  "webOrientation": "auto"
+}

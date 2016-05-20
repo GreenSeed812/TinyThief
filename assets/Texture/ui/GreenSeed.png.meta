@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6730f957-fdc4-4368-8c42-6a254a45352f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GreenSeed": {
+      "ver": "1.0.2",
+      "uuid": "13f95659-f83a-4bab-a9f9-b3cf20937c6a",
+      "rawTextureUuid": "6730f957-fdc4-4368-8c42-6a254a45352f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 231,
+      "trimY": 165,
+      "width": 899,
+      "height": 437,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

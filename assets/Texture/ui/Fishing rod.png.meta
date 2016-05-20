@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b1fc0193-9ebf-4012-b331-e95c42107842",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Fishing rod": {
+      "ver": "1.0.2",
+      "uuid": "21d13b1d-6003-41b9-9851-d8fa439d8238",
+      "rawTextureUuid": "b1fc0193-9ebf-4012-b331-e95c42107842",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 123,
+      "height": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
